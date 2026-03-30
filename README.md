@@ -1,16 +1,56 @@
-# React + Vite
+# 🍷 Sheetal's Premium Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sophisticated, high-end personal portfolio built with a focus on modern aesthetics, interactive experiences, and professional storytelling.
 
-Currently, two official plugins are available:
+✨ **[Live Demo](https://sheetal12-portfolio.vercel.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🎨 Design Philosophy
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This portfolio is built on a **Deep Burgundy & Gold** theme, designed to evoke a sense of professional luxury and technical precision. 
 
-## Expanding the ESLint configuration
+- **Primary Palette**: Burgundy Royale (`#1A0004`) & Shimmering Gold (`#FFD700`).
+- **Typography**: Modern and clear (Poppins & Inter).
+- **Interactivity**: Custom interactive cursor, golden dust particle systems, and polished 3D-tilt animations.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+
+- **Framework**: [React](https://reactjs.org/) + [Vite](https://vitejs.dev/)
+- **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Icons**: [React Icons](https://react-icons.github.io/react-icons/)
+
+## ✨ Features
+
+- **Responsive Design**: Fully optimized for mobile, tablet, and desktop viewports.
+- **Micro-interactions**: Subtle hover state transitions and scroll-reveal animations.
+- **Dynamic Projects & Skills**: Sections highlighting core technical expertise and real-world builds.
+- **Glassmorphism**: Consistent use of high-end glass-morphism materials throughout the UI.
+
+## 🛠️ Local Development
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/sheetal783/portfolio.git
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
+
+## 📬 Contact
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+- **Portfolio**: [sheetal12-portfolio.vercel.app](https://sheetal12-portfolio.vercel.app/)
+- **Connect**: Feel free to reach out via the Contact section in the app!
+
+---
+Made with ❤️ by Sheetal Gourh
